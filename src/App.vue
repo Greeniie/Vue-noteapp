@@ -39,7 +39,7 @@ export default {
       body: JSON.stringify(note)
      })
 
-     const data = res.json()
+     const data = await res.json()
 
       this.notes = [...this.notes, data]
     },
