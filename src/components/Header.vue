@@ -6,7 +6,7 @@
       dark
     >
       <div class="d-flex align-center">
-        <h1 class="white--text">Notepad</h1>
+        <h1 class="white--text">Noteefy</h1>
       </div>
 
       <v-spacer></v-spacer>
